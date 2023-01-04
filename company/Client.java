@@ -5,6 +5,10 @@ public class Client {
 		// TODO Auto-generated method stub
 System.out.println("Client Name Ramesh");
 	}
+	private void compName() {
+		
+
+	}
 
 	private void empNaame() {
 		// TODO Auto-generated method stub
